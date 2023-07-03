@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPI-LED", "RPI-LED\RPI-LED.csproj", "{FB472013-55E2-4663-B229-401E9490BA79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB472013-55E2-4663-B229-401E9490BA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB472013-55E2-4663-B229-401E9490BA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB472013-55E2-4663-B229-401E9490BA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB472013-55E2-4663-B229-401E9490BA79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
